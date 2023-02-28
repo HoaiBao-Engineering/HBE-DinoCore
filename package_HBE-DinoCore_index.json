@@ -1,0 +1,32 @@
+{
+  "packages": [
+    {
+      "name": "HBE-DinoCore",
+      "maintainer": "HoaiBao's Engineering",
+      "websiteUrl": "https://github.com/HoaiBao-Engineering/HBE-DinoCore",
+      "email": "hoaibao.engineering@gmail.com",
+      "platforms": [
+        {
+          "name": "HBE DinoCore",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://github.com/HoaiBao-Engineering/HBE-DinoCore/raw/master/HBE-DinoCore-V1.0.0.zip",
+          "archiveFileName": "HBE-DinoCore-V1.0.0.zip",
+          "checksum": "SHA-256:5b80f0052832d78e08bfe47a903a08fcb41d555c05013b59182a9bc6efea65df",
+          "size": "200853",
+          "boards": [
+            {
+              "name": "HBE Uno R3B [ATmega328PB] 16 MHz"
+            },
+            {
+              "name": "HBE Nano B [ATmega328PB] 16 MHz"
+            }
+          ],
+          "toolsDependencies": [],
+        }
+      ],
+      "tools": [],
+    }
+  ],
+}
